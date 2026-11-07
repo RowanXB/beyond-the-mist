@@ -19,9 +19,17 @@
 
 Windows 和 macOS 安装包在 [Releases](../../releases) 页面。编辑器版本 Unity 6000.3.28f1，除背景音乐外所有内容都由代码生成。
 
-**团队：** [Chengyan Tong](https://github.com/RowanXB)（队长，Unity 开发）、Ruohao Sun、[Yutong Deng](https://github.com/Deyuug)、Junyi Wang。项目方向和思路来自整个团队；Unity 原型由 Chengyan Tong 搭建，几乎全程使用 Claude Code 作为结对编程助手，并根据队友的试玩反馈不断迭代。演示中的呼吸是模拟的：原型通过麦克风"听"呼吸（只能测到声音，测不到气流），因此只是非医疗用途的演示。
+**团队：** [Chengyan Tong](https://github.com/RowanXB)（队长，Unity 开发）、Ruohao Sun、[Yutong Deng](https://github.com/Deyuug)、Junyi Wang。项目方向和思路来自整个团队。演示中的呼吸是模拟的：原型通过麦克风"听"呼吸（只能测到声音，测不到气流），因此只是非医疗用途的演示。
 
 ### 团队贡献
+
+#### Chengyan Tong — 队长与 Unity 开发
+
+- 带领团队，参与头脑风暴、方案讨论和最终路演。
+- 借助 Claude Code 搭建整个 Unity 原型，包括孩子的小船视角、家长的灯塔平板和医护控制。
+- 实现呼吸检测、海雾与海面效果、声音以及完整的体验流程。
+- 根据队友的试玩反馈不断迭代原型。
+- 制作 75 秒演示视频，并将项目发布到 GitHub。
 
 #### 邓昱彤 — 概念与体验设计
 
