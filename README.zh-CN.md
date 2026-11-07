@@ -23,7 +23,7 @@ Windows 和 macOS 安装包在 [Releases](../../releases) 页面。编辑器版�
 
 ### 团队贡献
 
-#### Chengyan Tong — 队长与 Unity 开发
+#### [Chengyan Tong](https://github.com/RowanXB) — 队长与 Unity 开发
 
 - 带领团队，参与头脑风暴、方案讨论和最终路演。
 - 借助 Claude Code 搭建整个 Unity 原型，包括孩子的小船视角、家长的灯塔平板和医护控制。
@@ -31,7 +31,7 @@ Windows 和 macOS 安装包在 [Releases](../../releases) 页面。编辑器版�
 - 根据队友的试玩反馈不断迭代原型。
 - 制作 75 秒演示视频，并将项目发布到 GitHub。
 
-#### 邓昱彤 — 概念与体验设计
+#### [邓昱彤](https://github.com/Deyuug) — 概念与体验设计
 
 - 参与项目整体概念构思与体验方向的制定。
 - 探索孩子、家长与医护人员之间的非对称交互。

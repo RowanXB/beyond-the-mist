@@ -23,7 +23,7 @@ Downloads for Windows and macOS are on the [Releases](../../releases) page. Edit
 
 ### Team Contributions
 
-#### Chengyan Tong — Team Lead & Unity Development
+#### [Chengyan Tong](https://github.com/RowanXB) — Team Lead & Unity Development
 
 - Led the team and took part in brainstorming, concept discussions and the final pitch.
 - Built the entire Unity prototype with Claude Code as pair programmer: the child's boat view, the parent's lighthouse tablet and the clinician controls.
@@ -31,7 +31,7 @@ Downloads for Windows and macOS are on the [Releases](../../releases) page. Edit
 - Iterated on the prototype based on teammates' playtest feedback.
 - Produced the 75-second demo video and published the project on GitHub.
 
-#### Yutong Deng — Concept & Experience Design
+#### [Yutong Deng](https://github.com/Deyuug) — Concept & Experience Design
 
 - Contributed to the overall concept development and experience direction.
 - Explored asymmetric interactions between the child, parent, and clinician.
