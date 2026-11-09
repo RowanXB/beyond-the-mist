@@ -19,7 +19,7 @@
 
 Windows 和 macOS 安装包在 [Releases](../../releases) 页面。编辑器版本 Unity 6000.3.28f1，除背景音乐外所有内容都由代码生成。
 
-**团队：** [Chengyan Tong](https://github.com/RowanXB)（队长，Unity 开发）、Ruohao Sun、[Yutong Deng](https://github.com/Deyuug)、Junyi Wang。项目方向和思路来自整个团队。演示中的呼吸是模拟的：原型通过麦克风"听"呼吸（只能测到声音，测不到气流），因此只是非医疗用途的演示。
+**团队：** [Chengyan Tong](https://github.com/RowanXB)（队长，Unity 开发）、Ruohao Sun、[Yutong Deng](https://github.com/Deyuug)、Junyi (Grace) Wang。项目方向和思路来自整个团队。演示中的呼吸是模拟的：原型通过麦克风"听"呼吸（只能测到声音，测不到气流），因此只是非医疗用途的演示。
 
 ### 团队贡献
 

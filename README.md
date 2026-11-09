@@ -19,7 +19,7 @@ Built in 48 hours at the [ARR Hackathon](https://www.scivr.co.uk/arr-hackathon) 
 
 Downloads for Windows and macOS are on the [Releases](../../releases) page. Editor version Unity 6000.3.28f1; everything except the background music is generated from code.
 
-**Team:** [Chengyan Tong](https://github.com/RowanXB) (team lead, Unity build), Ruohao Sun, [Yutong Deng](https://github.com/Deyuug) and Junyi Wang. The idea and direction came from the whole team. The breathing in the demo is simulated: the prototype "hears" breathing through a microphone (sound, not airflow), so it is a non-medical demonstration only.
+**Team:** [Chengyan Tong](https://github.com/RowanXB) (team lead, Unity build), Ruohao Sun, [Yutong Deng](https://github.com/Deyuug) and Junyi (Grace) Wang. The idea and direction came from the whole team. The breathing in the demo is simulated: the prototype "hears" breathing through a microphone (sound, not airflow), so it is a non-medical demonstration only.
 
 ### Team Contributions
 
